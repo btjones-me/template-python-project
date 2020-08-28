@@ -13,11 +13,11 @@ Lorem ipsum etc etc
 
 Got _docker?_ You can run the notebooks by running the following command from this root directory
 
-```docker build -t yourusername/fraud-detection . ```
+```docker build -t yourusername/template-python-project . ```
  
 followed by
 
-```docker run -p 8888:8888 yourusername/fraud-detection```
+```docker run -p 8888:8888 yourusername/template-python-project```
 
 _Else_, to generate the environment, call ```tox -e develop``` from the terminal/command line in the project directory from a python 3.7 environment with ```tox``` installed. This creates a project specific virtual environment and installs the relevant packages. 
 
