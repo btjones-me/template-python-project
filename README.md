@@ -5,7 +5,7 @@ Lorem ipsum etc etc
 
 | Author 	| Benjamin Jones 	|
 |--------	|----------------	|
-| Date   	| XX/XX/2020     	|
+| Date   	| XX/XX/202X     	|
 
 
 ### Getting Started 
